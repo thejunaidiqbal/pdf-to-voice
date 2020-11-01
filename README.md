@@ -1,4 +1,4 @@
-# pdf-to-voice:
+# pdf-to-voice
 In this python script, to convert PDF text to Voice.
 
 
